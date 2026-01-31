@@ -4,7 +4,7 @@
 
 ## Installation
 1. Clone the repository or download:
-`git clone https://github.com/teryxlabs/v4panel`
+`git clone https://github.com/gamernightdev-cmyk/v4panel.git`
 
 ` curl -sL https://deb.nodesource.com/setup_23.x | sudo bash - `
 
